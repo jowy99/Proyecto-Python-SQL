@@ -10,7 +10,7 @@ Fechas defensa proyecto: 30 de mayo y 1 de junio
 
 El portavoz de cada grupo deberá entregar los siguientes ficheros en Classroom:
 
-Memoria del proyecto en formato PDF firmada por los 3 integrantes del grupo.
+Memoria del proyecto en formato PDF.
 Presentación usada para la defensa en formato PDF.
 Documento .sql que permita crear la BBDD del proyecto, así como las tablas y los datos de muestra insertados.
 Documento/s .py del programa demo desarrollado.
@@ -63,7 +63,7 @@ mostrar los alumnos de cinco en cinco.
 ## 3. Memoria del Proyecto
 
 La memoria del proyecto debe contener al menos los siguientes puntos:
-1. PORTADA (CON EL NOMBRE DE LOS INTEGRANTES DEL GRUPO)
+1. PORTADA
 2. ÍNDICE
 3. DIAGRAMA ENTIDAD-RELACIÓN
 4. MODELO RELACIONAL
@@ -76,7 +76,6 @@ La memoria del proyecto debe contener al menos los siguientes puntos:
 
 ## 4. Documento a entregar
 
-El portavoz de cada grupo debe entregar los siguientes ficheros en Classroom:
 1. Memoria del proyecto en formato PDF
 2. Presentación usada para la defensa en formato PDF
 3. Documento .SLQ que permita crear la BBDD del proyecto, así como las tablas y los
